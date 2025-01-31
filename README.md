@@ -1,2 +1,2 @@
-# CrowdfundingBook-CH1
+# CrowdfundingBook
 CrowdfundingBook-Excel &amp; statistical analysis
